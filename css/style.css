@@ -13,10 +13,11 @@ h1 {
   font-size: 20px;
   line-height: 20px;
   font-weight: 500;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .title {
-  color: #000;
-  font-size: 21px;
+  color: #f1f1f1;
+  font-size: 31px;
+  margin-bottom: 50px;
 }
